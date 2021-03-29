@@ -1,7 +1,7 @@
 # ListView-Musik Kelompok 6
 Aplikasi Android ListView Sederhana
 
-Nama Kelompok :
+Nama Anggota Kelompok :
 1. Fahrul Umar (F55118035)
 2. Bagus Tri Yudistira (F55118097)
 3. Moh. Fauzan (F55118029)
