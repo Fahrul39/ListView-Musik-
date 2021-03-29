@@ -1,5 +1,5 @@
 # ListView-Musik Kelompok 6
-Aplikasi Android ListView Sederhana
+Aplikasi Android ListView Sederhana - Pemrograman Mobile Kelas A
 
 Nama Anggota Kelompok :
 1. Fahrul Umar (F55118035)
